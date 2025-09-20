@@ -31,6 +31,6 @@ Collection of small Python projects demonstrating problem-solving, Python skills
 
 ## 🏃 How to Run
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/div72ya/Python-mini-projects.git
